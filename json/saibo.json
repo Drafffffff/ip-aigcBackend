@@ -1,0 +1,15 @@
+{
+  "prompt": ",(solo:1)(chibi:0.3),(full body:1),Futuristic tech , (cyberpunk color scheme:1.2),(detail eyes:1.1), 3d rendering,3d model, Best quality,(masterpiece),(ultra-detailed), (simple background:1,5),(looking at viewer:0.4),colorful <lora:3DMM_V12:0.8> <lora:blindbox_大概是盲盒_blindbox_v1_mix:0.5>  ",
+  "negative_prompt": "(text),(logo),(watermark),(blur), (EasyNegative:1.2), ng_deepnegative_v1_75t, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), bad anatomy,(long hair:1.4),DeepNegative,(fat:1.2),facing away, looking away,tilted head,lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,extra fingers,fewer digits,extra limbs,extra arms,extra legs,malformed limbs,fused fingers,too many fingers,long neck,cross-eyed,mutated hands,polar lowres,bad body,bad proportions,gross proportions,text,error,missing fingers,missing arms,missing legs,extra digi,(NSFW:1.2)，Low saturation",
+  "seed": "-1",
+  "subseed": "-1",
+  "batch_size": "2",
+  "steps": 50,
+  "cfg_scale": 7,
+  "width": 512,
+  "height": 512,
+  "enable_hr": true,
+  "hr_scale": 1.5,
+  "hr_upscaler": "ESRGAN_4x",
+  "sampler_index": "DPM++ 2M Karras"
+}
